@@ -8,6 +8,7 @@ public class Code_Pushing
 	public void sample()
 	{
 		System.out.println("Code pushed..");
+		System.out.println("Hi..Hello");
 	}
 
 }
