@@ -27,8 +27,7 @@ public class CreateContactWithOrganizationTestUsingBaseClassTest extends BaseCla
 		//Step1 : Click on Organizations Link
 		HomePage hp = new HomePage(driver);
 		hp.clickOnOrganizationLink();
-		
-		
+	
 		//Step 2 : Click on create organizations look up image
 		Thread.sleep(3000);
 		OrganizationsPage op = new OrganizationsPage(driver);
