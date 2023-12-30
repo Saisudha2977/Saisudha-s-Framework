@@ -70,7 +70,6 @@
 			<version>8.0.33</version>
 		</dependency>
 	</dependencies>
-	
 
 	<profiles>
 		<profile>

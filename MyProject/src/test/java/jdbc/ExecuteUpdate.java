@@ -15,6 +15,7 @@ public class ExecuteUpdate
 	public void executeUpdate() throws SQLException
 	{
 		Driver driver = new Driver();
+		
 		//Ste1: register the driver
 		DriverManager.registerDriver(driver);
 		

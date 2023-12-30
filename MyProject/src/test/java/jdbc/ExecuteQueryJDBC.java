@@ -15,6 +15,7 @@ public class ExecuteQueryJDBC
 	@Test
 	public void readDataFromDataBase() throws SQLException
 	{
+		
 		Driver driverref = new Driver();
 		//Step1 : register the driver
 		DriverManager.registerDriver(driverref);
